@@ -2,7 +2,7 @@
 
 
 public class Alphabet {
-	
+	punlic static new_case_letters="abcdef";
 	public static final String UPPERCASE_LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	public static final String LOWERCASE_LETTERS = "abcdefghijklmnopqrstuvwxyz";
 	public static final String NUMBERS = "1234567890";
